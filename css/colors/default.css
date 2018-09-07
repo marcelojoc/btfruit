@@ -25,73 +25,73 @@
 }
 }
 .color-2, .courseList .media-body .list-inline.btnPart.btn-green>li a.btn-link:hover {
-    color: #b5d56a!important;
+    color: #00CA00!important;
 }
 .navbar-nav>li.dropdown.megaDropMenu.open>a>span, .navbar-default.lightHeader .navbar-nav>li.active.color-2>a, .navbar-nav>li.color-2>a:hover span, .navbar-nav>li.color-2.dropdown.megaDropMenu .dropdown-menu .list-unstyled li.listHeading, .navbar-nav>li.color-2.dropdown.megaDropMenu .dropdown-menu .list-unstyled li:first-child, .navbar-nav>li.color-2.dropdown.megaDropMenu .dropdown-menu .list-unstyled li.active>a, .navbar-nav>li.color-2.dropdown.megaDropMenu .dropdown-menu .list-unstyled li.active li.active a, .navbar-nav>li.color-2.dropdown.megaDropMenu .open a>span, .sectionLink:hover .border-color-2, .block .list-inline.btn-green .btn-link:hover, .eventContent .list-inline.btn-green .btn-primary:hover, .count-down #simple_timer .table-cell.hour .tab-val {
-    color: #b5d56a;
+    color: #00CA00;
 }
 .bg-color-2, .priceRange .progress .progress-bar, .priceRange .progress .bulet, .courseList .media-body .list-inline.btnPart.btn-green>li a.btn-primary:hover {
-    background-color: #b5d56a!important;
+    background-color: #00CA00!important;
 }
 .navbar-nav>li.color-2.dropdown.megaDropMenu .dropdown-menu .list-unstyled li a:hover, .block .list-inline.btn-green .btn-primary:hover, .priceRange .price-slider-inner .ui-widget-content .ui-slider-range, .priceRange .price-slider-inner .ui-widget-content .ui-slider-handle, .dropGeneral.bg-color-2 .sbHolder {
-    background-color: #b5d56a;
+    background-color: #00CA00;
 }
 .border-color-2, .priceRange .progress .bulet {
-    border-color: #b5d56a!important;
+    border-color: #00CA00!important;
 }
 .priceRange .price-slider-inner .ui-widget-content .ui-slider-handle, .dropGeneral.border-color-2 .sbHolder, .dropGeneral.bg-color-2 .sbHolder {
-    border-color: #b5d56a;
+    border-color: #00CA00;
 }
 .navbar-nav>li.color-2.dropdown.megaDropMenu>a:after {
-    border-bottom-color: #b5d56a;
+    border-bottom-color: #00CA00;
 }
 @media (min-width: 768px)  {
     .navbar-nav>li.color-2>a>span, .navbar-nav>li.color-2.dropdown.megaDropMenu .dropdown-menu {
-    border-color: #b5d56a;
+    border-color: #00CA00;
 }
 }
 .color-3, .block .list-inline.btn-red .btn-link:hover, .courseList .media-body .list-inline.btnPart.btn-red>li a.btn-link:hover {
-    color: #ea7066!important;
+    color: #FF004A!important;
 }
 a, .sectionTitle h2, .formField .help-block a:hover, .tabCommon .media-body .media-heading, .pagerArea>.pager li a:hover, .pagerArea>.pager li.active a, .navbar-default.lightHeader .navbar-nav>li.active.color-3>a, .navbar-nav>li.color-3>a:hover span, .navbar-nav>li.color-3.singleDrop>.dropdown-menu li.active>a, .navbar-nav>li.color-3.singleDrop>.dropdown-menu li.active li.active a, .navbar-nav>li.color-3.singleDrop.open a>span, .navbar-nav>li.color-4>a:hover span, .copyRightText p a:hover, .tp-caption.rs-caption-1 span, .sectionLink:hover .border-color-3, .schoolInfo h2, .teamInfo h3 a:hover, .teamContent.teamAdjust .teamInfo h3 a, .teamContent.teamAdjust .teamInfo h3 a:hover, .teamStyle .media-body h4 a:hover, .teachersInfo h3, .eventContent .list-inline.btn-red .btn-primary:hover, .isotopeSelector:hover h4, .homeContactContent h2, .footer-2 .copyRightText p a, .blogComments h3, .count-down #simple_timer .table-cell.minute .tab-val, .priceBtn h5 span, .progress-wizard>.progress-wizard-step>.progress-wizard-dot i, .checkoutInfo .checkbox a:hover, .lowerPartTitle h4, .product-review .tab-content h3 {
-    color: #ea7066;
+    color: #FF004A;
 }
 .bg-color-3, .courseList .media-body .list-inline.btnPart.btn-red>li a.btn-primary:hover {
-    background-color: #ea7066!important;
+    background-color: #FF004A!important;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary.active, .btn-primary:active, .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover, .backToTop, .searchArea>.input-group-addon.button, .searchArea>.input-group-addon.button:hover, .tabCommon .nav li.active a, .pagerArea>.pager li.prev a, .pagerArea>.pager li.next a, .navbar-nav>li.color-3.singleDrop>.dropdown-menu li a:hover, .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .footerInfo .input-group .input-group-addon, .footerInfo .input-group .input-group-addon:hover, .footerInfo .input-group .input-group-addon, .footerInfo .input-group .input-group-addon:hover, .block .list-inline.btn-red .btn-primary:hover, .countUpSection .counterInfo, .isotopeFilters ul.filter>li.active a, .continueBtnArea .btn-primary:hover, .dropGeneral.bg-color-3 .sbHolder, .progress-wizard>.progress-wizard-step.complete>.progress-wizard-dot i {
-    background-color: #ea7066;
+    background-color: #FF004A;
 }
 @media (min-width: 768px)  {
     .progress-wizard>.progress-wizard-step>.progress>.progress-bar {
-    background: #ea7066;
+    background: #FF004A;
 }
 }
 .border-color-3 {
-    border-color: #ea7066!important;
+    border-color: #FF004A!important;
 }
 .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .footerInfo .input-group .input-group-addon:hover, .progress-wizard>.progress-wizard-step>.progress-wizard-dot, .dropGeneral.border-color-3 .sbHolder, .dropGeneral.bg-color-3 .sbHolder {
-    border-color: #ea7066;
+    border-color: #FF004A;
 }
 .cart-dropdown .dropdown-menu {
-    border-top-color: #ea7066;
+    border-top-color: #FF004A;
 }
 .navbar-nav>li.color-3.dropdown.singleDrop .dropdown-menu .dropdown-menu:after {
-    border-right-color: #ea7066;
+    border-right-color: #FF004A;
 }
 .navbar-nav>li.color-3.dropdown a:after {
-    border-bottom-color: #ea7066;
+    border-bottom-color: #FF004A;
 }
 @media (min-width: 768px)  {
     .navbar-nav>li.color-3>a>span, .navbar-nav>li.color-3.singleDrop>.dropdown-menu, .navbar-nav>li.color-3.singleDrop>.dropdown-menu li .dropdown-menu {
-    border-color: #ea7066;
+    border-color: #FF004A;
 }
 }
 .tabCommon.tabLeft .nav li.active a:after {
-    border-color: transparent transparent transparent #ea7066;
+    border-color: transparent transparent transparent #FF004A;
 }
 .cart-dropdown .dropdown-menu:before {
-    border-bottom-color: #ea7066;
+    border-bottom-color: #FF004A;
 }
 .sectionTitle h2 span.bg-color-3, .sectionTitle h2 span.bg-color-3:after, .sectionTitle h2 span.bg-color-3:before {
     background-color: #ee8d85!important;
